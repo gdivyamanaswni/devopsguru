@@ -2,4 +2,4 @@
 devopsguru
 
 
-this is practicedevops for versionn
+this is practicedevops for version
